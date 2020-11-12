@@ -18,3 +18,5 @@ I have trained the model on my gpu device through CUDA, in case you don't have a
 [DataSet Link](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
 
 In the dataset folder there are Amazon, Yelp and Imdb Reviews. I have used Yelp Reviews.
+
+The train GPU Model is also provided in the GPU
